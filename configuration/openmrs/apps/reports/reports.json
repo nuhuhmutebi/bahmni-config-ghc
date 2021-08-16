@@ -113,9 +113,7 @@
       "showAllStates": true,
       "programNamesToFilter": [
         "Need for Surgery",
-        "Outside referral with specialty",
-        "Urgent follow up",
-        "Routine follow up"
+        "Urgent follow up"
       ]
     }
   },
@@ -134,9 +132,7 @@
           "showAllStates": true,
           "programNamesToFilter": [
             "Need for Surgery",
-            "Outside referral with specialty",
-            "Urgent follow up",
-            "Routine follow up"
+            "Urgent follow up"
           ]
         }
       },
